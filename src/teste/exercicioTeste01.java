@@ -1,2 +1,4 @@
-package teste;public class exercicioTeste01 {
+package teste;
+
+public class exercicioTeste01 {
 }
